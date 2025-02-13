@@ -36,12 +36,15 @@ Aaron: 4h
 - I'm the one that dragged other bozo onto this
 - I am in the process of building a [Hex Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
 - Went down a printer rabbit hole
+
 **ABL:**
 - [ZeroClick](https://github.com/zruncho3d/ZeroClick)
 - Seams nice and cheap
 - Used on Hex Zero
 - ABL needs more research
+
 **Hotend/Toolhead:**
+
 Requirements:
 - COTS
   - We do not want to be designing a Toolhead
@@ -49,6 +52,7 @@ Requirements:
 - Direct drive
   - Keep it compact
   - Print filaments that are harder to print (Remember robotics!)
+
 Options:
 - [Apogee Extruder](https://www.filastruder.com/products/ldo-apogee-toolhead-for-ender-3)
   - Light 170g
