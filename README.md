@@ -101,6 +101,8 @@ Anyway I do here are the current frame option( After spending 30 mins failing at
 - Hingeing lid with the bed in the middle
 - Linear Rods as the Z-axis support (Similar to Neutrino)
 
+I also started a basic Onshape Part Lib and did a lot more research
+
 I've learnt my lesson and now will spend the next hour **drawing concepts** before CADing
 
 
