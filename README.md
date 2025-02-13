@@ -85,7 +85,7 @@ Ok that's it for today I have school tmr
 
 ### Feb 13 2025
 
-Aaron: 2h
+Aaron: 3h
 Evan: 0h
 
 **Aaron:**
@@ -105,4 +105,7 @@ I also started a basic Onshape Part Lib and did a lot more research
 
 I've learnt my lesson and now will spend the next hour **drawing concepts** before CADing
 
-
+**Drawings**
+I spend half an hour making a Iso Grid YAY!
+Anyway Heres the idea
+![3D Printer Concept Iscometric](https://cdn.hack.pet/slackcdn/e7751f85e307172b6f68b6b7c01aed9b.png)
