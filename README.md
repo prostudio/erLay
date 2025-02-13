@@ -10,6 +10,10 @@ This printer is built to print small parts needed fast at robotics competitions 
 - Zero Click ABL
 - Built-in carrying case (The printer will collapse into something like a pelican case)
 
+## Total Time
+
+Aaron: 6h
+Evan: 2h
 
 ## Log
 
@@ -76,7 +80,27 @@ Options:
   - With a CHT nozzle??!!!?!?
   - WHAT??? for 87 USD?????? (The Canadian dollar is not doing so well)
 
+
 Ok that's it for today I have school tmr
 
+### Feb 13 2025
+
+Aaron: 2h
+Evan: 0h
+
+**Aaron:**
+Yay snow day!!! 
+Ok so I was losing my mind at midnight yesterday and did not realize that the Apogee uses an orbiter
+I probably need to find a better source
+
+**Frame**
+I was brainstorming frames today and I wanted the hingeing lid of the case to be the Z-axis
+I started with some CAD (Bad idea) and I got almost nowhere
+
+Anyway I do here are the current frame option( After spending 30 mins failing at CAD:
+- Hingeing lid with the bed in the middle
+- Linear Rods as the Z-axis support (Similar to Neutrino)
+
+I've learnt my lesson and now will spend the next hour **drawing concepts** before CADing
 
 
