@@ -37,6 +37,7 @@ Aaron: 4h
 
 
 #### Aaron
+
 - I'm the one that dragged other bozo onto this
 - I am in the process of building a [Hex Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
 - Went down a printer rabbit hole
@@ -88,12 +89,16 @@ Ok that's it for today I have school tmr
 Aaron: 3h
 Evan: 0h
 
-**Aaron:**
+#### Aaron:
+
+
 Yay snow day!!! 
 Ok so I was losing my mind at midnight yesterday and did not realize that the Apogee uses an orbiter
 I probably need to find a better source
 
 **Frame**
+
+
 I was brainstorming frames today and I wanted the hingeing lid of the case to be the Z-axis
 I started with some CAD (Bad idea) and I got almost nowhere
 
@@ -106,6 +111,8 @@ I also started a basic Onshape Part Lib and did a lot more research
 I've learnt my lesson and now will spend the next hour **drawing concepts** before CADing
 
 **Drawings**
+
+
 I spend half an hour making a Iso Grid YAY!
 Anyway Heres the idea
 ![3D Printer Concept Iscometric](https://cdn.hack.pet/slackcdn/e7751f85e307172b6f68b6b7c01aed9b.png)
