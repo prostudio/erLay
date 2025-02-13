@@ -12,7 +12,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 ## Total Time
 
-Aaron: 6h
+Aaron: 7h
 Evan: 2h
 
 ## Log
