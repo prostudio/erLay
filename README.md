@@ -1,5 +1,5 @@
 # erLay
-erLay is a super tall CoreXY 3D printer made by [Evan Yu](https://evanyu.dev) and [Aaron Huang](https://runthebot.me)
+erLay is a ultra portable CoreXY 3D printer made by [Evan Yu](https://evanyu.dev) and [Aaron Huang](https://runthebot.me)
 
 ## Goals
 - Ultra portable (for robotics competitions!!)
