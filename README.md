@@ -12,8 +12,8 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 ## Total Time
 
-Aaron: 7h
-Evan: 2h
+Aaron: 9h
+Evan: 4h
 
 ## Log
 
@@ -86,7 +86,7 @@ Ok that's it for today I have school tmr
 
 ### Feb 13 2025
 
-Aaron: 3h
+Aaron: 5h
 Evan: 2h
 
 #### Aaron:
@@ -169,4 +169,12 @@ Bedslinger:
   - Speed is slower due to bed inertia 
   - Higher vibration due to bed movement
   - As size of bed increases, the slower the printer has to be due to higher weight
+
+#### Aaron Part 2:
+I've been laying out the printer
+
+So the idea was to have both the gantry and the bed fold up but after an hour of layout it looks pretty impossible with the stock Voron 0 layout
+![Voron Layout](https://cdn.hackclubber.dev/slackcdn/604e7b44379364c485696c60c2bfce4b.png)
+
+There's also a concept sketch that I will put on here sometime
 
