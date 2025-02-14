@@ -158,6 +158,7 @@ Limitations:
 ![Reference Mechanism](https://corexy.com/reference.png)
 
 [CoreXY vs Bedslinger](https://store.creality.com/blog/corexy-vs-bed-slinger)
+
 Bedslinger:
 - Advantages:
   - Simple assembly
@@ -168,4 +169,4 @@ Bedslinger:
   - Speed is slower due to bed inertia 
   - Higher vibration due to bed movement
   - As size of bed increases, the slower the printer has to be due to higher weight
-  
+
