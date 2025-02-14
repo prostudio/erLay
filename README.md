@@ -87,7 +87,7 @@ Ok that's it for today I have school tmr
 ### Feb 13 2025
 
 Aaron: 3h
-Evan: 0h
+Evan: 2h
 
 #### Aaron:
 
@@ -102,7 +102,7 @@ I probably need to find a better source
 I was brainstorming frames today and I wanted the hingeing lid of the case to be the Z-axis
 I started with some CAD (Bad idea) and I got almost nowhere
 
-Anyway I do here are the current frame option( After spending 30 mins failing at CAD:
+Anyway I do here are the current frame options after spending 30 mins failing at CAD:
 - Hingeing lid with the bed in the middle
 - Linear Rods as the Z-axis support (Similar to Neutrino)
 
@@ -116,3 +116,56 @@ I've learnt my lesson and now will spend the next hour **drawing concepts** befo
 I spend half an hour making a Iso Grid YAY!
 Anyway Heres the idea
 ![3D Printer Concept Iscometric](https://cdn.hack.pet/slackcdn/e7751f85e307172b6f68b6b7c01aed9b.png)
+
+#### Evan:
+
+Spent most of the day working on [makropad](https://github.com/Badbird5907/makropad), it's almost done!
+
+**Research:**
+- Researched how CoreXY works
+  - https://corexy.com/theory.html
+  - https://all3dp.com/2/corexy-3d-printer-is-it-worth-buying/
+  - https://3ddistributed.com/belt-frequency-and-tensioning/
+  - 3 Stepper Motors:
+    - 2 for the XY
+    - 1 for the Z
+  - Print head is fixed to XY axis, while z axis is moved for printing
+  - Belt frequency can differ between machines
+  - Tensioning is important for performance. Frequency can affect speed and print quality
+  - Over-tensioning can cause the belt to slip/wear out faster
+  - Tighten belt until there is some resistance when pushed. There should be no slack.
+  - Looser belt = layer shifting when printing (misaligned prints)
+  - Failure can be caused by:
+    - Belt friction
+    - Damaged belt teeth
+    - Slip/rubbing of the belt
+    - Debris
+  - Loose/missing pulley teeth can cause jerky movements
+  - Pitch = distance between teeth (most are 2mm)
+Pros of CoreXY:
+- Speed
+- Accurate
+- Compact
+- Rigid frame
+This makes it perfect for our use case, as we want a small and fast printer we can take to competitions (hackathons and FRC).
+
+Limitations:
+- Complex assembly
+  - This could be an issue for portability, if we need to disassemble the printer.
+- Higher cost
+- Z axis constraints
+
+![Reference Mechanism](https://corexy.com/reference.png)
+
+[CoreXY vs Bedslinger](https://store.creality.com/blog/corexy-vs-bed-slinger)
+Bedslinger:
+- Advantages:
+  - Simple assembly
+  - Affordable
+  - Easy to use
+- Disadvantages:
+  - **Inertia** caused by the bed moving
+  - Speed is slower due to bed inertia 
+  - Higher vibration due to bed movement
+  - As size of bed increases, the slower the printer has to be due to higher weight
+  
