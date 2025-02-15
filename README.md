@@ -184,5 +184,5 @@ Evan: 0h
 Aaron: 0h
 
 14th: We spent the day preparing for a robotics competition
-15th: Competition Day
 
+15th: Competition Day
