@@ -229,4 +229,4 @@ Aaron: 3h
 This is how 2 different versions of the frame would fold. I layed out V1 a while back and it did not fit. 
 V2 also has problems with the center of gravity.
 ![V3](https://cloud-6ti4f5y08-hack-club-bot.vercel.app/0image.png)
-This is the latest frame that we have made. It will have a bed on one side and a gantry on the other. This frame costs way too much as it still needs a gantry and a bed
+This is the latest frame that we have made. It will have a bed on one side and a gantry on the other. This frame costs way too much and it still needs a gantry and a bed
