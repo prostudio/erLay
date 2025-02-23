@@ -8,6 +8,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 - Pico MMU (Optional)
 - Zero Click ABL
 - Built-in carrying case (The printer will collapse into something like a pelican case)
+- Can be powered by a (multiple) power banks
 
 # Total Time
 
