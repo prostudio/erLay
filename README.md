@@ -224,7 +224,7 @@ Researched other people's custom CoreXY builds:
 # Feb 22 2025
 
 Evan: 2h
-Aaron: 4h
+Aaron: 7h
 
 ## Aaron
 ### Folding Printer (Frame V1, V2, V3)
@@ -253,3 +253,6 @@ Instead of making it fold and making it fast, go all out on the portable aspect 
  - I want to keep the cost of the PCB as low as possible, the STUSB4500 is probably the best as it has way more stock on LCSC (8.3k vs 14) than the TPS25750, and is 20c cheaper.
 - Use a LTC4370 to load share between the different supplies
 - Use Diode OR-ing or Ideal Diode controllers to isolate power supplies and prevent **backfeeding**
+
+## Aaron 
+Spent a lot of time researching Linear rails/rods and how to hold a heated bed.
