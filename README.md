@@ -286,8 +286,8 @@ Aaron: 0h
 Did some research on USB-C PD controllers.
 There are a couple options, but i've only looked at two so far:
 
-| Name                                                                     | Max V | Max A | Max W | I2C Address Configurable | Suitable |
-|--------------------------------------------------------------------------|-------|-------|-------|--------------------------|----------|
-| [TPS65987D](https://www.ti.com/lit/ds/symlink/tps65987d.pdf)             | 20V   | 5A    | 100W  | Yes (ADCIN1/ADCIN2       | Yes      |
-| [STUSB4500](https://www.st.com/resource/en/datasheet/stusb4500.pdf)      | 20V   | 5A    | 100W  | Yes (ADDR0/ADDR1)        | Yes      |
-| [FUSB302](https://www.onsemi.com/download/data-sheet/pdf/fusb302b-d.pdf) | 20V   | 5A    | 100W  | No                       | No       |
+| Name                                                                     | Max V | Max A | Max W | I2C Address Configurable | Notes                                    | Suitable |
+|--------------------------------------------------------------------------|-------|-------|-------|--------------------------|------------------------------------------|----------|
+| [TPS65987D](https://www.ti.com/lit/ds/symlink/tps65987d.pdf)             | 20V   | 5A    | 100W  | Yes (ADCIN1/ADCIN2)      | Address configured with Analog signal(?) | Yes      |
+| [STUSB4500](https://www.st.com/resource/en/datasheet/stusb4500.pdf)      | 20V   | 5A    | 100W  | Yes (ADDR0/ADDR1)        | MAX 4 on 1 i2c line. (See 4.1)           | Yes      |
+| [FUSB302](https://www.onsemi.com/download/data-sheet/pdf/fusb302b-d.pdf) | 20V   | 5A    | 100W  | No                       |                                          | No       |
