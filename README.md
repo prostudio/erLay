@@ -261,7 +261,7 @@ A lot of Cadding
 
 # Feb 24 2025
 
-Evan: 1h
+Evan: 2h
 Aaron: 1h
 
 Discussed details over dinner.
@@ -277,3 +277,17 @@ Discussed details over dinner.
 - Boost every input before load balancing to prevent issues w/ voltage diff
 - Pico negotiates even wattage from all to reduce load on balancer
 - Digitally set target voltage via pico (?)
+
+# Feb 25 2025
+
+Evan: 1h
+Aaron: 0h
+
+Did some research on USB-C PD controllers.
+There are a couple options, but i've only looked at two so far:
+
+| Name                                                                     | Max V | Max A | Max W | I2C Address Configurable | Suitable |
+|--------------------------------------------------------------------------|-------|-------|-------|--------------------------|----------|
+| [TPS65987D](https://www.ti.com/lit/ds/symlink/tps65987d.pdf)             | 20V   | 5A    | 100W  | Yes (ADCIN1/ADCIN2       | Yes      |
+| [STUSB4500](https://www.st.com/resource/en/datasheet/stusb4500.pdf)      | 20V   | 5A    | 100W  | Yes (ADDR0/ADDR1)        | Yes      |
+| [FUSB302](https://www.onsemi.com/download/data-sheet/pdf/fusb302b-d.pdf) | 20V   | 5A    | 100W  | No                       | No       |
