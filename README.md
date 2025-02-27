@@ -294,12 +294,16 @@ There are a couple options, but i've only looked at two so far:
 
 # Feb 24-26
 Aaron: 3h
-Evan: 2h
+Evan: 3h
 
+## Aaron
 Decided to build a custom tool head similar to ESO3D. CADing that and gantry.
-
 
 Inspiration:
 ESO3D
 Creality K1
 Voron V0
+
+## Evan
+Did some research on the RP2350. Read through the [integration guide](https://datasheets.raspberrypi.com/rp2350/hardware-design-with-rp2350.pdf) and [datasheet](https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf).
+We'll probably use the A variant over the B variant as we only need the I2C.
