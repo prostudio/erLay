@@ -329,11 +329,14 @@ I basically want the [AP33772S](https://www.diodes.com/datasheet/download/AP3377
 
 Also watched [Phil's Lab #104](https://www.youtube.com/watch?v=W13HNsoHj7A) and [#114](https://www.youtube.com/watch?v=kUruN6WBgSw)
 
-# Mar 26
+# March 26
 Evan: 6.5h
 
 ## Evan
 I spent most of my time trying to figure out how to design the schematic. A major blocker I'm stuck at right now is *how* to power the rp2040. Because I want the power banks to be hot-swappable, I need to power the rp2040 off any one of the USB-C ports, and I don't want to add a buck converter for each port... Things can get expensive *quickly*.
+
+*This is likely a fire hazard :trollface:*
+
 Current progress:
 ![image](https://github.com/user-attachments/assets/796e684e-09f3-46bf-81a6-0f619603a5c8)
 ![image](https://github.com/user-attachments/assets/73953d6d-58ae-4eef-b516-209afc0b4c3b)
