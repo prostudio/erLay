@@ -340,3 +340,5 @@ Current progress:
 
 The PSU is being developed in [Badbird5907/PDSU](http://github.com/badbird5907/PDSU)
 
+I'm probably going to just buck the voltage for each USB port with a TPS54331 and use diode OR-ing if I don't have any better ideas tmr morning.
+
