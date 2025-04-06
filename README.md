@@ -410,4 +410,11 @@ Evan: 6.5h
 ## Evan
 I spent most of the day (1pm-7pm) updating the HAT schematic, placing the parts, routing the pcb, and sourcing the parts.
 
+3D View
+![kicad_AbbpzV4n1V](https://github.com/user-attachments/assets/afa78fae-80f9-46f9-b699-28dc94037a77)
+
+PCB
+![image](https://github.com/user-attachments/assets/b24a5e00-ac54-4332-9c56-afd95759b6a4)
+
+
 Also my hackpad stuff arrived! (check my personal channel on slack, #evans-basement)
