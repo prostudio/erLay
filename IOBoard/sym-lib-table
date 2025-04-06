@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "SL2.1A")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/SL2.1A.elibz")(options "")(descr ""))
+  (lib (name "USB")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/USB.elibz")(options "")(descr ""))
 )

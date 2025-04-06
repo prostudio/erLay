@@ -384,6 +384,8 @@ Evan: 0.5h
 I've decided to temporarily pause development on the power supply PCB, as I don't think it's very feasible to complete in the next few days (infill is due April 7), so I will be spending
 the next few days developing and prototyping a esp32 daughter board with a touchscreen LCD.
 
+**Even if I was able to complete the PCB on time, It has a pretty high chance of going up in flames, potentially damaging the power banks, or destroying the components. I really do want a printer that can be powered off a power bank, but it really isn't feasable to make __safely__ in the time I have right now. I will very likely continue development on this PCB after infill**
+
 Right now, I think i'm going to use an ILI9341 TFT touchscreen that is driven over SPI with an ESP32 as these displays are generally [pretty cheap](https://www.aliexpress.us/item/2251832829271342.html)
 
 # April 4
@@ -401,3 +403,11 @@ Aaron already had a touchscreen for the pi. (that would just use klipperscreen)
 This HAT would break out and expose LED pins/controllers. It will also act as a USB hub reducing the need for janky micro-usb connectors.
 
 [1:26 AM - Apr 5] - The USB hub schematic is completed. It uses an SL2.1A USB hub controller, which is a pretty standard USB hub controller. It has 4 downstream ports (2x A, 2x C), and 1 upstream port (USB A).
+
+# April 5
+Evan: 6.5h
+
+## Evan
+I spent most of the day (1pm-7pm) updating the HAT schematic, placing the parts, routing the pcb, and sourcing the parts.
+
+Also my hackpad stuff arrived! (check my personal channel on slack, #evans-basement)
