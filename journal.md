@@ -421,7 +421,7 @@ PCB
 
 Also my hackpad stuff arrived! (check my personal channel on slack, #evans-basement)
 
-# Aprl 6
+# April 6
 Evan: 3h
 
 Sourced parts and made the [BOM](https://docs.google.com/spreadsheets/d/1s7m9KlAu-EawWQ5k7trbtZSsV5alHb0_lQaYVRcTUCk/view) - Our total comes out to $300.83 USD, 83 cents over budget!!!
