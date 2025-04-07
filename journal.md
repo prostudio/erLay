@@ -425,3 +425,19 @@ Also my hackpad stuff arrived! (check my personal channel on slack, #evans-basem
 Evan: 3h
 
 Sourced parts and made the [BOM](https://docs.google.com/spreadsheets/d/1s7m9KlAu-EawWQ5k7trbtZSsV5alHb0_lQaYVRcTUCk/view) - Our total comes out to $300.83 USD, 83 cents over budget!!!
+
+<rant>
+**TW: Incoherent rambling**
+I really wanted our printer's *gimmick* to be powered off all USB-C power banks, and I spent a considerable amount of time towards developing this. If it wasn't for midterms, I would have had enough time to sink into getting this thing properly spec'd out and designed *within budget*. I know that printers for infill should have something that sets them apart, but without this pcb, we're just yet another generic klipper CoreXY.
+There were a couple reasons why didn't happen:
+  - Midterms/no free time
+  - My little experience in real electrical design
+  - Insisting on a variable voltage output- not just 12 or 24v
+  - THe ambitious scope I set out for this
+  - Not being able to find a VRM that was cheap enough to use in our design that:
+    a) can handle around 60W each (this is the very upper limit of *integrated FET* buck/boosts)
+    b) have minimal supporting circutry as I would need to manually place and route four of these buck/boost converters
+If I hadn't insisted on a variable voltage, and if I was didn't care about placing (a lot) more components, there would be a better chance that this project would have turned out the way I wanted it to. It would be even more likely to be completed if I was willing to reduce the scope, instead of boneheadedly smashing my head on my keyboard trying to figure out how to make this work
+
+don't know where i'm going with this incoherent rambling mess but yeah :(
+</rant>
