@@ -4,7 +4,7 @@
 import re
 from datetime import datetime
 
-README_PATH = "README.md"
+README_PATH = "journal.md"
 
 
 def remove_total_time_block(readme_text):

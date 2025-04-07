@@ -3,7 +3,7 @@ name: Update Total Time
 on:
   push:
     paths:
-      - "README.md"
+      - "journal.md"
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"  # run daily at midnight (UTC)
@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add journal.md
           if ! git diff-index --quiet HEAD; then
             git commit -m "chore: update total time"
             git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
