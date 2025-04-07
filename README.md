@@ -8,7 +8,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 - Ultra-portable (for robotics competitions!!)
 - CoreXY
 - Pico MMU (Optional)
-- Zero Click ABL
+- Zero Click ABL (Optional)
 - Built-in carrying case (The printer will collapse into something like a pelican case)
 - Can be powered by a (multiple) power banks
 
