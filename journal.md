@@ -454,8 +454,9 @@ don't know where i'm going with this incoherent rambling mess but yeah :(
 Evan: 5h
 
 # Evan
-Just spent a good chunk of time redoing/resourcing a good chunk of the BOM, sourcing parts off digikey instead of LCSC, and reworking parts of the PCB to make it work with parts from Digikey.
+Just spent a good chunk of time redoing/resourcing a good chunk of the BOM, sourcing parts off digikey instead of LCSC, and reworking parts of the PCB to make it work with parts from Digikey. We're also adding Auto Bed Leveling!
 Our total comes out to approx. $283 USD!
 ![1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2f0663eba0d919aac5f080e3bb5582ae9a2a12b5_kicad_zetptngz7j.png)
 ![2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ca87b34dc41d1232f47d1a2fc3c3add6a352e89a_kicad_moturfrz9g.png)
 ![3](https://hc-cdn.hel1.your-objectstorage.com/s/v3/945524bea49665c70192fbaf797c01af8c1f69a5_brave_gfd6traui3.png)
+![4](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b0c86390cb68b24657fd40dc46e36070395b72e_image.png)
