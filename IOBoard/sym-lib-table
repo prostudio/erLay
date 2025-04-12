@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "SL2.1A")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/SL2.1A.elibz")(options "")(descr ""))
   (lib (name "USB")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/USB.elibz")(options "")(descr ""))
+  (lib (name "USB C")(type "KiCad")(uri "${KIPRJMOD}/Components/2171790001.kicad_sym")(options "")(descr ""))
 )
