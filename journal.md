@@ -460,3 +460,9 @@ Our total comes out to approx. $283 USD!
 ![2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ca87b34dc41d1232f47d1a2fc3c3add6a352e89a_kicad_moturfrz9g.png)
 ![3](https://hc-cdn.hel1.your-objectstorage.com/s/v3/945524bea49665c70192fbaf797c01af8c1f69a5_brave_gfd6traui3.png)
 ![4](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b0c86390cb68b24657fd40dc46e36070395b72e_image.png)
+
+# April 12
+Evan: 2h
+
+# Evan
+Finally got the grant! I purchased the extruder and hotend off of trianglelab.net instead of aliexpress as they are on sale today. I've also ordered everything else off Aliexpress, Digikey, and JLC.
