@@ -466,3 +466,7 @@ Evan: 2h
 
 # Evan
 Finally got the grant! I purchased the extruder and hotend off of trianglelab.net instead of aliexpress as they are on sale today. I've also ordered everything else off Aliexpress, Digikey, and JLC.
+
+# Apr 22/23
+Evan: 4h
+Parts arrived, I spent a LONG TIME trying to solder the tiny 0402 components D:
