@@ -470,3 +470,15 @@ Finally got the grant! I purchased the extruder and hotend off of trianglelab.ne
 # Apr 22/23
 Evan: 4h
 Parts arrived, I spent a LONG TIME trying to solder the tiny 0402 components D:
+
+# Apr 21-27
+
+Aaron: 7h
+
+I went and bought 3/4"x3/4" box tube from home depot
+
+Designing and prototyping templates for manufacturing (I'm so sad I don't have access to a CNC)
+![1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f581de579f180c5a1caf5bf02041e06277101635_image.png)
+
+Lots of highly accurate parts made!
+![1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/65fa65a8602d0c28e2e8c6fc53d2d85f8867fed6_image.png)
