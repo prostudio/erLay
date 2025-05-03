@@ -490,5 +490,11 @@ Bought 7.5ft of linear rod. Attemped to drill. Gave up. Even just cutting takes 
 
 # May 1-2
 Aaron: 4h
+Evan: 5h
 
+## Aaron
 Some assembly, lots of 3D printing, more manufacturing.
+
+## Evan
+Setting up the pis, klipper, and assembling the electronics.
+*MLH gave me a defective pi zero :(*
