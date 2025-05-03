@@ -482,3 +482,13 @@ Designing and prototyping templates for manufacturing (I'm so sad I don't have a
 
 Lots of highly accurate parts made!
 ![1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/65fa65a8602d0c28e2e8c6fc53d2d85f8867fed6_image.png)
+
+# Apr 28-30
+Aaron: 8h
+
+Bought 7.5ft of linear rod. Attemped to drill. Gave up. Even just cutting takes way too long.
+
+# May 1-2
+Aaron: 4h
+
+Some assembly, lots of 3D printing, more manufacturing.
