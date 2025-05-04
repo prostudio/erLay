@@ -488,6 +488,11 @@ Aaron: 8h
 
 Bought 7.5ft of linear rod. Attemped to drill. Gave up. Even just cutting takes way too long.
 
+## Somewhere in this time frame
+Aaron: 4h
+Evan: 4h
+Trip planning. SOOOOOOO many routes :(
+
 # May 1-2
 Aaron: 4h
 Evan: 5h
