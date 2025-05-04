@@ -498,3 +498,13 @@ Some assembly, lots of 3D printing, more manufacturing.
 ## Evan
 Setting up the pis, klipper, and assembling the electronics.
 *MLH gave me a defective pi zero :(*
+
+# May 3-4
+Aaron: 12h
+## Aaron
+A lot of assembly, 3d printing. Again, Stainless is a pain to work with, do not recommend. 
+
+Way too much filing. Spent too long looking for a lost linear bearing (Found it yay!)
+
+
+
