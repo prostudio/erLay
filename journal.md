@@ -506,10 +506,14 @@ Setting up the pis, klipper, and assembling the electronics.
 
 # May 3-4
 Aaron: 12h
+Evan: 4h
 ## Aaron
 A lot of assembly, 3d printing. Again, Stainless is a pain to work with, do not recommend. 
 
 Way too much filing. Spent too long looking for a lost linear bearing (Found it yay!)
+
+## Evan
+Spent some time destroying another pi zero, then configuring klipper and our current pi 4b. It now starts an AP called `erLay` on boot, so we don't need to have an ethernet cable plugged in all the time.
 
 # May 5
 Evan: 4.5h
