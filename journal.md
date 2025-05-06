@@ -15,7 +15,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 103.5h
-Evan: 73.5h
+Evan: 77.5h
 
 # Feb 12 2025
 
