@@ -511,5 +511,10 @@ A lot of assembly, 3d printing. Again, Stainless is a pain to work with, do not 
 
 Way too much filing. Spent too long looking for a lost linear bearing (Found it yay!)
 
+# May 5
+Evan: 4.5h
+Aaron: 4h
 
-
+## Evan
+Went to Aaron's house and brought all the electronics, assembled most of the toolhead, base, and cut out some polycarbonate.
+Brought the toolhead home to solder on longer wires for the fans (not proud of the soldering job but I think it works.)
